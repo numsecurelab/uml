@@ -83,7 +83,7 @@ skinparam roundcorner            20
 skinparam ParticipantPadding     30
 skinparam BoxPadding             30
 skinparam Padding                8
-skinparam ArrowColor             "#3d3d3d"
+skinparam ArrowColor             #3d3d3d
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
     CBorderColor $SECONDARY_DARK
@@ -157,7 +157,7 @@ skinparam actor {
 
 skinparam arrow {
 	Thickness 3
-	Color $PRIMARY
+	Color #3d3d3d
 	FontColor $FGCOLOR
 }
 !endsub
