@@ -22,7 +22,7 @@ skinparam useBetaStyle false
 !$SUCCESS = "#b5bd00"
 !$INFO = "#003a6d"
 !$WARNING = "#ea7400"
-!$DANGER = "#cf2a2a"
+!$DANGER = "#3d3d3d"
 !$LIGHT = "#d2d2d2"
 !$DARK = "#f5f5f5"
 
@@ -62,7 +62,7 @@ skinparam useBetaStyle false
 
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY_LIGHT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor $DANGER
 
 !endprocedure
 
@@ -326,7 +326,7 @@ skinparam database {
 
 skinparam class {
 	$primary_scheme()
-	HeaderBackgroundColor #3d3d3d
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $LIGHT
@@ -367,7 +367,7 @@ skinparam rectangle {
 
 skinparam package {
 	FontColor $PRIMARY
-	BorderColor #3d3d3d
+	BorderColor $PRIMARY_LIGHT
 	BackgroundColor $BGCOLOR
 	BorderThickness 2
 }
