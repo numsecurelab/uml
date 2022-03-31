@@ -20,7 +20,7 @@ skinparam useBetaStyle false
 !$PRIMARY = "#292929"
 !$SECONDARY = "#f2f2f2"
 !$SUCCESS = "#b5bd00"
-!$INFO = "#0568ae"
+!$INFO = "#1f4fff"
 !$WARNING = "#ea7400"
 !$DANGER = "#cf2a2a"
 !$LIGHT = "#d2d2d2"
