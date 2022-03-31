@@ -255,10 +255,8 @@ skinparam agent {
 !startsub note
 
 skinparam note {
-	BorderThickness 1
 	BackgroundColor $INFO_LIGHT-$INFO
-	BorderColor $INFO
-	FontColor $WHITE
+	FontColor $INFO_TEXT
 }
 !endsub
 
