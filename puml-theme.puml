@@ -102,7 +102,7 @@ skinparam title {
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              #3D3D3D
+	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
 }
 
 
@@ -126,7 +126,7 @@ skinparam swimlane {
 skinparam activity {
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor #3D3D3D
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
