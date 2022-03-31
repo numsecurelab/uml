@@ -102,7 +102,7 @@ skinparam title {
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
+	BackgroundColor              #3D3D3D
 }
 
 
