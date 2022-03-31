@@ -140,7 +140,9 @@ skinparam activity {
 !startsub box
 
 skinparam box {
-	BackGroundColor $PRIMARY
+	BackGroundColor #292929
+    FontSize 13
+	FontStyle light
 }
 !endsub
 
