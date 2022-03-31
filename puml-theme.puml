@@ -14,7 +14,7 @@ skinparam backgroundColor $BGCOLOR
 skinparam useBetaStyle false
 
 
-!$WHITE = "#fff"
+!$WHITE = "#f5f5f5"
 !$GRAY_DARK = "#5a5a5a"
 !$GRAY = "#959595"
 !$PRIMARY = "#292929"
@@ -24,7 +24,7 @@ skinparam useBetaStyle false
 !$WARNING = "#ea7400"
 !$DANGER = "#cf2a2a"
 !$LIGHT = "#d2d2d2"
-!$DARK = "#5a5a5a"
+!$DARK = "#f5f5f5"
 
 !$FGCOLOR = $DARK
 !$PRIMARY_LIGHT = "#292929"
@@ -418,7 +418,6 @@ skinparam queue {
 
 skinparam card {
 	BackgroundColor $INFO_LIGHT-$INFO
-	BorderColor $INFO
 	FontColor $INFO_TEXT
 }
 !endsub
