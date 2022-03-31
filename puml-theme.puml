@@ -35,7 +35,7 @@ skinparam useBetaStyle false
 !$SECONDARY_TEXT = $DARK
 !$INFO_LIGHT = "#003a6d"
 !$INFO_DARK = "#003a6d"
-!$INFO_TEXT = $WHITE
+!$INFO_TEXT = "#82cfff"
 !$SUCCESS_LIGHT = "#c4ca33"
 !$SUCCESS_DARK = "#919700"
 !$SUCCESS_TEXT = $WHITE
