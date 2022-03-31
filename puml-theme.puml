@@ -137,7 +137,7 @@ skinparam activity {
 }
 !endsub
 
-!startsub activity
+!startsub box
 
 skinparam box {
 	BackGroundColor $PRIMARY
