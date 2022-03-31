@@ -126,7 +126,7 @@ skinparam swimlane {
 skinparam activity {
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
-	BackgroundColor #3D3D3D
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
@@ -326,7 +326,7 @@ skinparam database {
 
 skinparam class {
 	$primary_scheme()
-	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	HeaderBackgroundColor #3d3d3d
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $LIGHT
@@ -367,7 +367,7 @@ skinparam rectangle {
 
 skinparam package {
 	FontColor $PRIMARY
-	BorderColor $PRIMARY_LIGHT
+	BorderColor #3d3d3d
 	BackgroundColor $BGCOLOR
 	BorderThickness 2
 }
