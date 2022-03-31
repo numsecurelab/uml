@@ -75,13 +75,13 @@ skinparam useBetaStyle false
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName        "Verdana"
+skinparam defaultFontName        "Graphik LCG"
 skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            20
 skinparam ParticipantPadding     30
-skinparam BoxPadding             30
+skinparam BoxPadding             40
 skinparam Padding                8
 skinparam ArrowColor             #666666
 skinparam stereotype {
