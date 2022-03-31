@@ -31,7 +31,7 @@ skinparam useBetaStyle false
 !$PRIMARY_DARK = "#007faf"
 !$PRIMARY_TEXT = $WHITE
 !$SECONDARY_LIGHT = "#f5f5f5"
-!$SECONDARY_DARK = "#525252"
+!$SECONDARY_DARK = "#666666"
 !$SECONDARY_TEXT = $DARK
 !$INFO_LIGHT = "#003a6d"
 !$INFO_DARK = "#003a6d"
@@ -83,7 +83,7 @@ skinparam roundcorner            20
 skinparam ParticipantPadding     30
 skinparam BoxPadding             30
 skinparam Padding                8
-skinparam ArrowColor             #3d3d3d
+skinparam ArrowColor             #666666
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
     CBorderColor $SECONDARY_DARK
@@ -157,7 +157,7 @@ skinparam actor {
 
 skinparam arrow {
 	Thickness 1
-	Color #3d3d3d
+	Color #666666
 	FontColor $FGCOLOR
 }
 !endsub
