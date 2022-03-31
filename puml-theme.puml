@@ -194,9 +194,9 @@ skinparam sequence {
 	GroupBorderColor $GRAY
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
-	GroupBackgroundColor $BGCOLOR
-	GroupBodyBackgroundColor $BGCOLOR
-	GroupHeaderBackgroundColor $BGCOLOR
+	GroupBackgroundColor $PRIMARY
+	GroupBodyBackgroundColor $PRIMARY
+	GroupHeaderBackgroundColor $PRIMARY
 	''
 	DividerBackgroundColor $WHITE-$LIGHT
     DividerBorderColor $GRAY
