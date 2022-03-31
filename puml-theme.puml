@@ -137,6 +137,13 @@ skinparam activity {
 }
 !endsub
 
+!startsub activity
+
+skinparam box {
+	BackGroundColor $PRIMARY
+}
+!endsub
+
 !startsub participant
 
 skinparam participant {
