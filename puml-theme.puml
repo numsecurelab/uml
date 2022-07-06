@@ -20,7 +20,7 @@ skinparam useBetaStyle false
 !$PRIMARY = "#292929"
 !$SECONDARY = "#f2f2f2"
 !$SUCCESS = "#b5bd00"
-!$INFO = "#003a6d"
+!$INFO = "#003666"
 !$WARNING = "#ea7400"
 !$DANGER = "#3d3d3d"
 !$LIGHT = "#d2d2d2"
@@ -33,9 +33,9 @@ skinparam useBetaStyle false
 !$SECONDARY_LIGHT = "#f5f5f5"
 !$SECONDARY_DARK = "#666666"
 !$SECONDARY_TEXT = $DARK
-!$INFO_LIGHT = "#003a6d"
-!$INFO_DARK = "#003a6d"
-!$INFO_TEXT = "#82cfff"
+!$INFO_LIGHT = "#003666"
+!$INFO_DARK = "#003666"
+!$INFO_TEXT = "#85C6FF"
 !$SUCCESS_LIGHT = "#c4ca33"
 !$SUCCESS_DARK = "#919700"
 !$SUCCESS_TEXT = $WHITE
